@@ -1,0 +1,13 @@
+{
+
+  "packages": [
+
+    "module1",
+
+    "module2"
+
+  ],
+
+  "version": "independent"
+
+}
